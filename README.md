@@ -13,6 +13,8 @@ This is relitivly simple compared to the drive but it is still complacted in its
 ### The rest of the robot
 The Upright of this robot are going to be made of UHMW and the rest of the chassis is going to be made out of TPU with the top lid and bottom brace being made out of 1mm Carbon Fiber. Normally you would get those milled from a place like RSL(Robot Smashing Leauge) but i have the ability to mill it myself which is why im just buying the raw materials instead. 
 Here is how the body looks, its semi simble but it should suit my needs well
+Im able to fit 3 full top lids and 2 bottom lids in a 17$ sheet of carbon fiber off amazon
+<img width="739" height="495" alt="image" src="https://github.com/user-attachments/assets/25f3f98e-6d64-45e7-96f7-912860e2fc6e" />
 <img width="923" height="673" alt="image" src="https://github.com/user-attachments/assets/769b3414-ba1a-445d-b0d9-c32562b3d0db" />
 ### Here are some images of the robot
 <img width="878" height="536" alt="image" src="https://github.com/user-attachments/assets/fd32463c-fbec-42bb-b272-5327debb2d59" />
