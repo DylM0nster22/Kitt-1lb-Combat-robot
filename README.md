@@ -1,5 +1,23 @@
 # Kitt-1lb-Combat-robot
 This is 1lb metal combat robot. The type of robot it will be is a tower vert which is a large diameter thin weapon. I've made a robot of this type before but I've never made one with shuffle drive.
+
+### The Drive Pods
+The Drive pods are powered by 1805 brushless motor, and are a less seen type of drive called shuffle. The idea of shuffle drive is that it gives you a 1.25x weight bonus and in theroy will be almost as reliable as normal tires.
+This is my shuffle drive module
+<img width="824" height="642" alt="image" src="https://github.com/user-attachments/assets/0facb327-c47b-4035-ab54-803344c2b45a" />
+And the way it work is there is a 15t spur gear on the motor that connects to a 40t gear which has a cam shaft on it and that is what the feet go on to. the feet stay on there from a plate at the end and a screw.
+### The Weapon assembly
+This is relitivly simple compared to the drive but it is still complacted in its own way. This weapon is an AR500 steel disk with a tooth and counterweight for balance and bite. It has a solid tpu hub for mounting and it has a connection to the 2807 motor though gears. These gears are slightly over module 1 and are also going to be solid tpu.
+<img width="927" height="601" alt="image" src="https://github.com/user-attachments/assets/1abb751d-dbe4-4437-a068-d70258d38539" />
+<img width="778" height="547" alt="image" src="https://github.com/user-attachments/assets/d777699f-1f0f-43ec-a171-53f1c7dd501b" />
+### The rest of the robot
+The Upright of this robot are going to be made of UHMW and the rest of the chassis is going to be made out of TPU with the top lid and bottom brace being made out of 1mm Carbon Fiber. Normally you would get those milled from a place like RSL(Robot Smashing Leauge) but i have the ability to mill it myself which is why im just buying the raw materials instead. 
+Here is how the body looks, its semi simble but it should suit my needs well
+<img width="923" height="673" alt="image" src="https://github.com/user-attachments/assets/769b3414-ba1a-445d-b0d9-c32562b3d0db" />
+### Here are some images of the robot
+<img width="878" height="536" alt="image" src="https://github.com/user-attachments/assets/fd32463c-fbec-42bb-b272-5327debb2d59" />
+<img width="810" height="542" alt="image" src="https://github.com/user-attachments/assets/5f2ecc87-1034-42cd-8659-67fe57f81668" />
+
 |Part               |Quanity|Price              |Total Price|Weight in bot|Provider                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-------------------|-------|-------------------|-----------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                   |       |                   |           |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
