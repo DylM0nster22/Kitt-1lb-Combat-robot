@@ -11,7 +11,7 @@ This is relitivly simple compared to the drive but it is still complacted in its
 <img width="927" height="601" alt="image" src="https://github.com/user-attachments/assets/1abb751d-dbe4-4437-a068-d70258d38539" />
 <img width="778" height="547" alt="image" src="https://github.com/user-attachments/assets/d777699f-1f0f-43ec-a171-53f1c7dd501b" />
 ### The rest of the robot
-The Upright of this robot are going to be made of UHMW and the rest of the chassis is going to be made out of TPU with the top lid and bottom brace being made out of 1mm Carbon Fiber. Normally you would get those milled from a place like RSL(Robot Smashing Leauge) but i have the ability to mill it myself which is why im just buying the raw materials instead. 
+The Upright of this robot are going to be made of UHMW and the rest of the chassis is going to be made out of TPU with the top lid and bottom brace being made out of 1mm Carbon Fiber. Normally you would get those milled from a place like RSL(Robot Smashing Leauge) but i have the ability to mill it myself which is why im just buying the raw materials instead. You can import the 3mf file of the builtplate to get all infills needed to meet weight
 Here is how the body looks, its semi simble but it should suit my needs well
 <img width="923" height="673" alt="image" src="https://github.com/user-attachments/assets/769b3414-ba1a-445d-b0d9-c32562b3d0db" />
 
