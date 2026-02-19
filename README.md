@@ -1,13 +1,10 @@
 # Kitt-1lb-Combat-robot
 This is 1lb metal combat robot. The type of robot it will be is a tower vert which is a large diameter thin weapon. I've made a robot of this type before but I've never made one with shuffle drive.
 
-### The Drive Pods
-The Drive pods are powered by 1805 brushless motor, and are a less seen type of drive called shuffle. The idea of shuffle drive is that it gives you a 1.25x weight bonus and in theroy will be almost as reliable as normal tires.
-This is my shuffle drive module
-<img width="824" height="642" alt="image" src="https://github.com/user-attachments/assets/0facb327-c47b-4035-ab54-803344c2b45a" />
-And the way it work is there is a 15t spur gear on the motor that connects to a 40t gear which has a cam shaft on it and that is what the feet go on to. the feet stay on there from a plate at the end and a screw.
+### The Drive System
+The Drive system in this robot is an easy one, it just has two plain n20 brushed motors.
 ### The Weapon assembly
-This is relitivly simple compared to the drive but it is still complacted in its own way. This weapon is an AR500 steel disk with a tooth and counterweight for balance and bite. It has a solid tpu hub for mounting and it has a connection to the 2807 motor though gears. These gears are slightly over module 1 and are also going to be solid tpu.
+This is relatively simple compared to the drive but it is still complacted in its own way. This weapon is an AR500 steel disk with a tooth and counterweight for balance and bite. It has a solid tpu hub for mounting and it has a connection to the 2807 motor though gears. These gears are slightly over module 1 and are also going to be solid tpu.
 <img width="927" height="601" alt="image" src="https://github.com/user-attachments/assets/1abb751d-dbe4-4437-a068-d70258d38539" />
 <img width="778" height="547" alt="image" src="https://github.com/user-attachments/assets/d777699f-1f0f-43ec-a171-53f1c7dd501b" />
 ### The rest of the robot
