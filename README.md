@@ -17,9 +17,9 @@ Im able to fit 3 full top lids and 2 bottom lids in a 17$ sheet of carbon fiber 
 
 And Im able to fit 2 uprights in a 6x6 in sheet of uhmw
 <img width="648" height="585" alt="image" src="https://github.com/user-attachments/assets/1b60648c-d20e-47a4-a059-70018d2091df" />
-### Here are some images of the robot
-<img width="878" height="536" alt="image" src="https://github.com/user-attachments/assets/fd32463c-fbec-42bb-b272-5327debb2d59" />
-<img width="810" height="542" alt="image" src="https://github.com/user-attachments/assets/5f2ecc87-1034-42cd-8659-67fe57f81668" />
+### Here is a image of the bot
+<img width="649" height="468" alt="image" src="https://github.com/user-attachments/assets/c67bb11d-6765-478e-9e4c-af476f53a85c" />
+
 
 |Part                          |Quanity|Price              |Total Price|Weight in bot|Provider                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |------------------------------|-------|-------------------|-----------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
